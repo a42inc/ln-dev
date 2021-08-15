@@ -1,4 +1,4 @@
-# LN.dev
+# LN.dev ⚡️
 
 LN.dev for Lightning Network development.
 
